@@ -8,8 +8,8 @@
 // @grant        GM_addStyle
 // @run-at       document-idle
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/532001/YouTube%20Layout%20Fix.user.js
-// @updateURL https://update.greasyfork.org/scripts/532001/YouTube%20Layout%20Fix.meta.js
+// @downloadURL https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix---Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
+// @updateURL https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix---Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
 // ==/UserScript==
 
 (function () {
