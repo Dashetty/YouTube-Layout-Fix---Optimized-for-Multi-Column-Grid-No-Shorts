@@ -2,14 +2,14 @@
 // @name         YouTube Layout Fix - Optimized for Multi-Column Grid + No Shorts
 // @namespace    http://tampermonkey.net/
 // @version      5.33
-/// @description  Forces a 6-column grid, hides ads/Shorts/unwanted shelves, fixes channel/search/watch layout bugs, and adjusts text spacing.
-// @author       Hardeep shetty
+// @description  Forces a 6-column grid, hides ads/Shorts/unwanted shelves, fixes channel/search/watch layout bugs, and adjusts text spacing.
+// @author       Hardeep Shetty
 // @match        https://www.youtube.com/*
 // @grant        GM_addStyle
 // @run-at       document-idle
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix---Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
-// @updateURL https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix---Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
+// @downloadURL  https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix--Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
+// @updateURL    https://raw.githubusercontent.com/Dashetty/YouTube-Layout-Fix--Optimized-for-Multi-Column-Grid-No-Shorts/refs/heads/main/YT%20OLD%20Layout%20Optimizedd.js
 // ==/UserScript==
 
 (function () {
